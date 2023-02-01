@@ -80,9 +80,17 @@ a:visited {
   color: #74638f;
 }
 
+<<<<<<< HEAD
 #date {
   font-weight: bold;
 }
+=======
+  #img-div {
+    padding-right:50px ;
+    padding-left: 50px;;
+    background-color: white;
+  }
+>>>>>>> fa9777010c14f123e526f0301f72f6b6854a0b41
 
 #quot {
   padding-left: 150px;
